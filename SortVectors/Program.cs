@@ -10,7 +10,9 @@ namespace SortVectors
     {
         static void Main(string[] args)
         {
-            int [] vett = new int [10] {0,1,2,3,4,5,6,7,8,9};
+            int [] vett = new int [10] {0,1,2,3,4,5,6,7,9,8};
+
+            Ordina(vett);
 
             for (int i = 0; i < 10; i++)
             {
@@ -19,6 +21,11 @@ namespace SortVectors
 
             Console.ReadKey();
 
+        }
+
+        static void Ordina(int [] vett)
+        {
+            Array.Sort(vett);
         }
     }
 }

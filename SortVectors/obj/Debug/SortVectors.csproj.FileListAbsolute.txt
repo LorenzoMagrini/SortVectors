@@ -5,3 +5,10 @@ C:\Users\lorenzo.magrini.4g\Documents\SortVectors\SortVectors\obj\Debug\SortVect
 C:\Users\lorenzo.magrini.4g\Documents\SortVectors\SortVectors\obj\Debug\SortVectors.csproj.CoreCompileInputs.cache
 C:\Users\lorenzo.magrini.4g\Documents\SortVectors\SortVectors\obj\Debug\SortVectors.exe
 C:\Users\lorenzo.magrini.4g\Documents\SortVectors\SortVectors\obj\Debug\SortVectors.pdb
+C:\Users\lorenzo.magrini.4g\Documents\Clone\SortVectors\SortVectors\bin\Debug\SortVectors.exe.config
+C:\Users\lorenzo.magrini.4g\Documents\Clone\SortVectors\SortVectors\bin\Debug\SortVectors.exe
+C:\Users\lorenzo.magrini.4g\Documents\Clone\SortVectors\SortVectors\bin\Debug\SortVectors.pdb
+C:\Users\lorenzo.magrini.4g\Documents\Clone\SortVectors\SortVectors\obj\Debug\SortVectors.csprojAssemblyReference.cache
+C:\Users\lorenzo.magrini.4g\Documents\Clone\SortVectors\SortVectors\obj\Debug\SortVectors.csproj.CoreCompileInputs.cache
+C:\Users\lorenzo.magrini.4g\Documents\Clone\SortVectors\SortVectors\obj\Debug\SortVectors.exe
+C:\Users\lorenzo.magrini.4g\Documents\Clone\SortVectors\SortVectors\obj\Debug\SortVectors.pdb
