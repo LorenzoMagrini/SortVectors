@@ -19,6 +19,10 @@ namespace SortVectors
                 Console.WriteLine(vett[i]);
             }
 
+            int max = Massimo(vett);
+
+            Console.WriteLine("Il massimo è: " + max);
+
             Console.ReadKey();
 
         }
@@ -26,6 +30,26 @@ namespace SortVectors
         static void Ordina(int [] vett)
         {
             Array.Sort(vett);
+        }
+
+        static int Massimo(int[] v)
+        {
+
+            int max = v[0];
+
+            for(int i = 0; i < v.Length; i++)
+            {
+
+                if (max < v[i])
+                    max = v[i];
+
+                
+
+
+            }
+
+            return max;
+
         }
     }
 }
